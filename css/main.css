@@ -84,13 +84,13 @@ nav a:hover {
     background-size: cover;
 
 }
-#prfimg {
+#sam {
     align-self: center;
     width: 18%;
     border-radius: 100%;
     transition: 1s ease;
 }
-#prfimg:hover {
+#sam:hover {
     transition: 1s ease;
     transform: scale(1.1);
 }
@@ -256,7 +256,7 @@ span {
 }
 
 @media(min-width: 2000px) {
-    #prfimg {
+    #sam {
         width: 300px;
     }
 
