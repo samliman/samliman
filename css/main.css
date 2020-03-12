@@ -79,11 +79,11 @@ nav a:hover {
     text-align: center;
     padding-top: 12%;
     padding-bottom: 12%;
-    background-image: url('../images/samSnow.jpg');
+    background: linear-gradient( rgba(167, 115, 115, 0.75), rgba(0, 0, 0, 0.75) ),
+    url('../images/samSnow.jpg');
     background-repeat: no-repeat;
-    background-size: cover;
-
 }
+
 #sam {
     align-self: center;
     width: 18%;
