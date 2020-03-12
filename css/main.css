@@ -82,12 +82,13 @@ nav a:hover {
     background: linear-gradient( rgba(167, 115, 115, 0.75), rgba(0, 0, 0, 0.75) ),
     url('../images/samSnow.jpg');
     background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 
 #sam {
     align-self: center;
     width: 18%;
-    /* border-radius: 100%; */
+    border-radius: 10%;
     transition: 1s ease;
 }
 #sam:hover {

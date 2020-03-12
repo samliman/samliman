@@ -1,0 +1,25 @@
+{
+  "name": "sam-liman",
+  "version": "1.0.0",
+  "description": "Welcome to my personal website, showcasing the projects I have completed thus far.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samliman/samliman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samliman/samliman/issues"
+  },
+  "homepage": "https://github.com/samliman/samliman#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}
